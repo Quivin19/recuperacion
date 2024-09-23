@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "762604654328",
+    "project_id": "recuperacion-8e33f",
+    "storage_bucket": "recuperacion-8e33f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762604654328:android:0b8f8b7f99de02d093350d",
+        "android_client_info": {
+          "package_name": "com.recuperacion.Kevin20210728_"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBRF9tx476rvnWtG-f9PujvPwHBPUNEsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

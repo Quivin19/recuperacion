@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "expo": "^51.0.32",
+    "firebase": "^10.13.2",
+    "react-native-paper": "^5.12.5",
+    "react": "18.2.0",
+    "react-native": "0.74.5"
+  },
+  "name": "Recuperacion",
+  "version": "1.0.0",
+  "scripts": {
+    "android": "expo run:android",
+    "ios": "expo run:ios"
+  }
+}
